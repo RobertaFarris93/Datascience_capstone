@@ -20,10 +20,6 @@ It demonstrates the application of **Python, SQL, data analysis, visualization, 
 This project is part of the IBM Data Science Professional Certificate on Coursera.  
 It demonstrates the application of **Python, SQL, data analysis, visualization, and machine learning** to solve a real-world problem.
 
-## Problem Statement
-Briefly describe the business or research problem you addressed.  
-*(E.g., Predicting which customers are likely to churn to improve retention strategies.)*
-
 ## Data
 - **Source:** SpaceX open data 
 - **Features:** Launch site, booster version, payload mass, orbit, customer, success/failure  
